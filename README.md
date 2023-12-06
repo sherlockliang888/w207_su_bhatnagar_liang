@@ -1,7 +1,9 @@
-# w207_su_bhatnagar_liang
+## DATASCI W207: Applied Machine Learning Fall'23 Final Project
+Using Machine Learning to Predict Real/Fake Job Postings
+Section 3 12 Dec, 2023
+Eshan Bhatnagar, Fengshou Liang, Jane Su
 
-data: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
-
+Data: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
 The job market can be a tough place for both job seekers and companies, especially with the overwhelming number of job postings floating around on different platforms. However, there's a new issue making things even trickier – fake job postings. Just picture this: you're scrolling through job listings, trying to find the perfect opportunity, only to discover that some of them are nothing but smoke and mirrors. These fake job postings are created by companies that aren't actually looking to hire anyone. It's a real problem for the entire job market.
 
